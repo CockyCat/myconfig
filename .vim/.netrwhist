@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/xg/work/null/.gconf'
+let g:netrw_dirhist_2='/home/xg/work/null/.gconf/apps'
+let g:netrw_dirhist_3='/usr/local/php/etc'
+let g:netrw_dirhist_4='/home/xg/work/null'
+let g:netrw_dirhist_5='/home/xg/work'
+let g:netrw_dirhist_6='/home/xg/work/dalasu/cc.dalasu.com'
+let g:netrw_dirhist_7='/home/xg/work/dalasu/cc.dalasu.com/config'
+let g:netrw_dirhist_8='/home/xg/work/dalasu/sql'
+let g:netrw_dirhist_9='/home/xg/work/fightgame/DOC'
