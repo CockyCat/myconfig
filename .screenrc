@@ -1,4 +1,5 @@
 hardstatus on
 hardstatus alwayslastline
 hardstatus string "%{.bW}%-w%{.rW}%n %t%{-}%+w %=%{..G} %H %{..Y} %m/%d %C%a "
+termcapinfo xterm|xterms|xs ti@: te=\E[2J
 escape ^Zz			#将screen默认的ctrl+a改为ctrl+z
